@@ -2,3 +2,4 @@ Hello World!
 and Hello Odin! 
 This test marks the start of my Odin Project adventure. 
 Here is to many more entires to GitHub to document my progress.
+And to a brighter and more prosperus future.
